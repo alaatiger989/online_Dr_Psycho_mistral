@@ -48,7 +48,7 @@ def create_chain():
 
 # Set the webpage title
 st.set_page_config(
-    page_title="Alaa's Chat Robot!"
+    page_title="Arabtesting's Chat Robot!"
 )
 
 # Create a header element
